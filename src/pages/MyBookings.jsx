@@ -67,5 +67,4 @@ const MyBookings = () => {
     <Loading />
   )
 }
-
 export default MyBookings
